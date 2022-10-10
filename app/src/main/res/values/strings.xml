@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="et_reminder">Give a reminder</string>
+    <string name="btn_add_reminder">Add</string>
+</resources>
